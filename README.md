@@ -1,5 +1,7 @@
-## Hi there 👋
-
+![Header](banner.png)
+<div align="center">
+  <h1>Hello, It's DaBloat! (Kurt Russel Villamor)</h1>.
+</div>
 <!--
 **DaBloat/DaBloat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
