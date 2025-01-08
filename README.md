@@ -1,18 +1,15 @@
 ![Header](banner.png)
-<div align="center">
-  <h1>Hello, It's DaBloat! (Kurt Russel Villamor)</h1>.
-</div>
-<!--
-**DaBloat/DaBloat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### Operating Systems Experience:
+[![My Skills](https://skillicons.dev/icons?i=arch,debian,ubuntu,windows&theme=dark)](https://skillicons.dev)
+---
+### Languages Experience (ranked by proficiency):
+[![My Skills](https://skillicons.dev/icons?i=python,lua,cpp,bash,java,js&theme=dark)](https://skillicons.dev)
+---
+### Tech Experience:
+##### Data Science
+[![My Skills](https://skillicons.dev/icons?i=sklearn&theme=dark)](https://skillicons.dev)
+##### Software GUI
+[![My Skills](https://skillicons.dev/icons?i=qt,gtk&theme=dark)](https://skillicons.dev)
+##### Database
+[![My Skills](https://skillicons.dev/icons?i=sqlite,mysql&theme=dark)](https://skillicons.dev)
